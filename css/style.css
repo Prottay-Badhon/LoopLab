@@ -1,0 +1,61 @@
+.navbar {
+  border-bottom: 3px solid #008ed6;
+  background: #292b2c;
+  opacity: 0.7; }
+
+body {
+  background: #333;
+  color: #fff; }
+
+#regFrom {
+  opacity: .9; }
+
+#home-section {
+  background: url("../img/badhon.jpg") no-repeat center top;
+  background-size: cover;
+  min-height: 700px; }
+  #home-section .dark-overlay {
+    background: rgba(0, 0, 0, 0.8);
+    min-height: 700px; }
+  #home-section .fa {
+    background: #fff;
+    color: blue;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 30px; }
+  #home-section .home-inner {
+    padding-top: 150px; }
+
+#explore-main-section #sectionCol {
+  background: url("../img/explore.jpeg") no-repeat center top;
+  background-size: cover;
+  min-height: 350px; }
+
+#explore-main-section .fa {
+  background: #333;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 30px; }
+
+#share-head-section #createImg {
+  background: url("../img/child.jpg") no-repeat center top;
+  background-size: cover;
+  min-height: 350px; }
+
+#share-head-section .fa {
+  background: white;
+  color: blue;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 30px; }
+
+#shareDiv {
+  background: url("../img/share.jpg") no-repeat center top;
+  background-size: cover;
+  min-height: 350px; }
+
+#lastSection .fa {
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
